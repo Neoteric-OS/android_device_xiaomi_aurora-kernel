@@ -111,6 +111,8 @@ icc-test.ko
 mi_memory.ko
 ufs_ffu.ko
 dump_display.ko
+kshrink_slabd.ko
+io_monitor.ko
 mi_schedule.ko
 metis.ko
 mist.ko
