@@ -90,7 +90,7 @@ for MODULE_FOLDER in "${MODULE_FOLDERS[@]}"; do
     fi
 
     if [ "${MODULE_FOLDER}" == "system_dlkm" ]; then
-        MODULE_SRC="${DUMP}/system_dlkm/lib/modules/6.1.138-android14-11-g965475777129-mi"
+        MODULE_SRC="${DUMP}/system_dlkm/lib/modules/6.1.157-android14-11-g2b8d37d00a12-mi"
     fi
 
     [ -d "${MODULE_SRC}" ] || { echo "Source ${MODULE_SRC} not found or empty! Skipping ${MODULE_FOLDER}."; continue; }

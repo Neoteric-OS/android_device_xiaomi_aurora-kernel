@@ -269,6 +269,7 @@ kernel/drivers/nvdimm/of_pmem.ko
 kernel/drivers/dax/dax.ko
 kernel/drivers/dma-buf/heaps/deferred-free-helper.ko
 kernel/drivers/dma-buf/heaps/page_pool.ko
+kernel/drivers/dma-buf/udmabuf.ko
 kernel/drivers/scsi/scsi_mod.ko
 kernel/drivers/scsi/scsi_common.ko
 kernel/drivers/scsi/sd_mod.ko
